@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://www.codewars.com/users/Pixako/badges/large)
 
 
