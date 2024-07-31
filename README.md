@@ -11,9 +11,27 @@
 
 
 
-![](https://www.codewars.com/users/Pixako/badges/large)
+# Work-qualifed
+- Python 3,2
+- JS, qweb
+- C
+- Image processing
+- ML stuffs
+- Diagrams~
 
-
+# Can (probably) do
+- Literally any high level programming langauges. Swift, R, Go, Lua; you name it.
+- Rust, C#, C++
+- x86, ARM assembly
+- Java
+- Front End Stuffs
+- Dev Op stuffs (Not K8)
+- DB (relational/non-relational)
+- SQL
+- QC/QA
+- prolog :)
+- lisp/scheme :)
+- #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments.<
 <!--
 **Pixako-Unrealistia/Pixako-Unrealistia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
