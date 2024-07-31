@@ -32,6 +32,10 @@
 - prolog :)
 - lisp/scheme :)
 - #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments.<
+
+✨ Important ✨
+I'm an engineer by nature, if you see smelly code, it means you haven't paid me enough to buy proper cooking instruments.
+  
 <!--
 **Pixako-Unrealistia/Pixako-Unrealistia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
