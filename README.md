@@ -1,7 +1,7 @@
 
 <h2 align="center">How did you get here...?</h3>
 
-<h2 align="center">There is not much to see, most things are privated anyways...</h2>
+<h2 align="center">Most interesting items are unfortunately privated.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixako-unrealistia" alt="pixako-unrealistia" /></a> </p>
 
@@ -17,7 +17,8 @@
 - C
 - Image processing
 - ML stuffs
-- Diagrams~
+- UML Diagrams
+- Full circuit development
 
 # Can (probably) do
 - Literally any high level programming langauges. Swift, R, Go, Lua; you name it.
@@ -31,10 +32,11 @@
 - QC/QA
 - prolog :)
 - lisp/scheme :)
-- #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments.<
+- #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments~
 
 ✨ Important ✨
-I'm an engineer by nature, if you see smelly code, it means you haven't paid me enough to buy proper cooking instruments.
+I'm an engineer by nature, if you see smelly code, it means you haven't paid me enough to buy proper cooking instruments!
+Overtly motivated personal project tend to be privated...
   
 <!--
 **Pixako-Unrealistia/Pixako-Unrealistia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
