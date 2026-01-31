@@ -19,6 +19,7 @@
 - ML stuffs
 - UML Diagrams
 - Full circuit development
+- ASW rchitecture stuff
 
 # Can (probably) do
 - Literally any high level programming langauges. Swift, R, Go, Lua; you name it.
@@ -32,7 +33,7 @@
 - QC/QA
 - prolog :)
 - lisp/scheme :)
-- #### > Sit and listen in cooperate meeting, ~~argue with managers.~~ create mutual understanding between departments~
+- #### > Sit and listen in corporate meeting
 
 ✨ Important ✨
 I'm an engineer by nature, if you see smelly code, it means you haven't paid me enough to buy proper cooking instruments!
